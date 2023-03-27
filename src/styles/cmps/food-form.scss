@@ -2,16 +2,7 @@
     text-align: center;
     padding-top: 150px;
 
-    form {
-
-        display: flex;
-        flex-direction: column;
-        gap: 30px;
-        align-items: center;
-
-        input {
-            width: 30vw;
-            height: 30px;
-        }
+    li{
+        list-style-type: none;
     }
 }
